@@ -1,7 +1,8 @@
 # Excercise3-GBM
 The exercise situation is explained in the problem.txt file.
 
-##How to use
+## How to use
+
 you can use either Ejericici3.py or Ejercicio3UsingFile.py those are almost the same.
 
 With Ejercicio3.py you have to run it in a terminal and the first input is the number
