@@ -7,5 +7,5 @@ while (entries > 0):
     currentPoint = ((i * (i+1))/2)
     if(currentPoint == point+1):
         i += 1
-    print(i)
+    print(f'jumps{i}')
     entries -= 1

@@ -8,5 +8,7 @@ while (entries > 0):
     currentPoint = ((i * (i+1))/2)
     if(currentPoint == point+1):
         i += 1
-    print(f'for input: {point} Number of Jumps = {i}')
+    # Uncomment for testing
+    # print(f'for input: {point} Number of Jumps = {i}')
+    print(i)
     entries -= 1
